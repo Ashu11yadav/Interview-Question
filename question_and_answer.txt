@@ -1,0 +1,7 @@
+\***********String*****************\
+
+Q.1:  What will be the output of the following?
+
+     Sting a = 16 + 'A' + "xyz"; 
+
+Ans: Output a = 81xyz
